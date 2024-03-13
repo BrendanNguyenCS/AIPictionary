@@ -1,0 +1,250 @@
+coffee,owl,bikini
+drill bit,george washington,duck
+parent,ant,fade
+password,wonder woman,outside
+elephant,cruise ship,oar
+lil wayne,drake,young thug
+rabbit,post office,flute
+buckle,rocket,bow
+tiger,tarzan,bat
+bridge,statue of liberty,fizz
+plant,andi mack,ruby
+ladybug,panic,hamburger
+pilot,goblin,darts
+ditch,coat,fuel
+wig,cut,bat man
+comfy,kitten,bee
+selena,sweater,dud
+earth,fog,sponge
+barrel,smile,snowboarding
+boring,sleep,zipper
+sheep,dizzy,nurse
+pencil,trade,finger
+cube,purse,bathtub
+slide,bake sale,skiing
+lawnmower,log,in,lecture
+laundry detergent,red,snowflake
+fireman pole,space,football
+sandbox,kiwi,woman
+pumpkin,macho,flag
+flying saucer,key,nanny
+shoulder,deodorant,fiddle
+nail,whale,zoo
+unplug,scrambled eggs,ice skating
+basket,stationery,dripping
+vitamin,green,pose
+hippo,book,swimming pool
+money,run,olympics
+lunch tray,bulldog,stairs
+calendar,ghost,root beer float
+angry,pacifier,ball
+volleyball,airforce,zebra
+glue,dispatch,snarl
+lighthouse,shallow,carrot
+think,diamond,bow tie
+garbage,mailbox,mailman
+cupcake,accounting,yard
+listen,drum,hotel
+ocean,igloo,night
+morning,santa,crumbs
+eel,leaf,turtleneck
+heinz 57,battleship,crayon
+snow,christmas,ferris wheel
+ironman,batman,hulk
+lamp,border,porch
+organ,baggage,charger
+attack,chain mail,bicycle
+imagination,glue stick,philosopher
+wind,download,bookend
+softball,captain,water
+owner,close,socks
+back seat,sunburn,thomas the tank engine
+balance beam,mountains,spiderman
+ferrari,queen,firefighter
+great,grandfather,moth,drive
+blinds,brand pail,salt and pepper
+bone,yardstick,economics
+bumblebee,zigzag,heart
+vacation,teacher,boulevard
+facebook,smores,hot
+president,nose,mitten
+juggle,triangle,mom
+surround,dark,daisy
+cold,twang,rodeo
+eat,coach,darkness
+catch,telescope,pink
+sing,lollipop,bus
+bear,vacuum,glasses
+tv,cheese,sprinkler
+sweater,porsche,burp
+harry potter,stethoscope,person
+country,whistle,doormat
+lullaby,shrink ray,ford
+good,bye,far,curtain
+wax,candle,basketball
+lipstick,earphones,midnight
+rain,iphone,elope
+conversation,cubit,shrek
+chain saw,water buffalo,chess
+tire,lizard,frog
+coffee,george washington,new york
+barber,roller coaster,ant eater
+scratch,closet,pool
+north,toothbrush,lion
+bell,sand castle,swing
+quicksand,rib,knee
+teapot,sky,corn
+beanstalk,jaw,snag
+stingray,magenta,try
+giraffe,season,tourist
+face,doubtful,nemo
+crab,wedding cake,wag
+licorice,spit,agent
+vein,learn,orange
+batman,paranoid,fish
+bread,brain,cook
+shower,hair,camera
+boat,airplane,lace darts
+snap,fireman,line
+gold medal,movie,bargain
+stutter,paper plate,taxi
+extension cord,realm,horse
+pumpkin pie,detention,oval
+clambake,bug,blush
+clock,rut,robot
+row,sloth,property
+inchworm,moon,street sweeper
+boa constrictor,bobsled,jack,o,lantern
+grapes,computer,computer monitor
+soak,blocks,hibernation
+system,drought,birthday cake
+ice fishing,snake,cowboy
+trombone,stork,castle
+bowling ball,carpenter,vegetarian
+magnet,check,motorcycle
+bunk bed,lemon,trip
+church,gasoline,cruise
+baby,jar,postcard
+torch,jigsaw,thumb
+mat,milk,egg
+ginger,bible,crane
+raindrop,magic,rock
+trapped,feather,car accident
+jump,roof,wrap
+love,peace,parents
+butterfly,world,commercial
+ears,bettle,omelet
+hail,blueprint,award
+solar eclipse,tie,star
+cake,rice,elephant
+fur,captain america,drink
+conveyor belt,bonfire,jail
+spitball,cheerleader,religion
+park,roommate,clamp
+rain,hat,happy
+myth,boxing,skating rink
+crust,destination,fireworks
+box,lightning,charcoal
+suit,swim,strawberry
+stranger,mask,cookie
+team captain,pirate,ipad
+hot tub,ice cream cone,mechanic
+avocado bleach,panda,high heel
+burrito,skip,name
+saturn,leprechaun,kite
+bucket,putty,coal
+algorithm,train,superman
+waffle,pantyhose,baseball
+desk,purchase,dream
+deep,keyboard,homework
+bed,coin,photo
+badge,convertible,exhibition
+avocato,circus,snowball
+limestone,float,peanut
+acorn,music,flat
+butterfly,dragon,fire
+ear,apathetic,hook
+first class,spongebob,wifi
+angel,mouse,button
+fire,water,air
+baby,sitter,ice cream,thread
+beach,fire,ornament
+teenage mutant ninja turtles,sushi,scissors
+type,lobster,license
+chemical,tutor,freshman
+mold,hat,circus tent
+sea,megaphone,light bulb
+audi,seat belt,mr potato head
+chandelier,pilgram,catalog
+playground,jellyfish,turtle
+pray,bathroom,bird
+balloon,popsicle,dragon
+rock band,homerun,tusk
+cabin,twist,cough
+snail,bumble bee,incredible
+nature,monkey,dog
+car,comedian,shampoo
+comb,cliff,falling
+grass,shout,neighborhood
+seashell,broom,state
+iron man,drain,crib
+bike,caviar,chicken coop
+door,dolphin,cat
+hot dog,reservoir,eraser
+fly,stay,dashboard
+minivan,teepee,clown
+black panther,fork,snowman
+date,tricycle,bonnet
+flavor,light,apple
+sap,mattress,lady bug
+koala,sleepover,thrift store
+thermometer,cow,bleach
+aircraft carrier,pen,mickey mouse
+sasquatch,clog,mermaid
+nitrogen,square,banana
+mountain,pinwheel,bubble
+river,puppet,pants
+phone,frame,chuck norris
+scuba diving,ski,monsoon
+jacket,geyser,extension cord dent
+branch,ringleader,pizza
+rib mascot,pharaoh,dance
+problem,cloud,rug
+hut,beans,shoe
+bubble bath,text,half cardboard
+biscuit,drip,samsung
+bowl,retire,spider
+cherry,violent,recycle
+tow,geologist,pain
+bedbug,highchair,carry
+ring,bunk,applause
+pole zoo sushi,pineapple,win
+time machine,hug,lips
+tutu,unite,skateboard
+sunscreen,sandwich,sun block
+canoe,mockingbird,sunset
+chestnut,mime,eiffel tower
+chimney,rainbow,trash can
+truck stop,cardboard,lie
+tide,hoop,blanket
+sad,cloak,toothpaste
+helicopter,volcano,playstation
+cake,skate,laugh
+north pole,hockey,pocket
+write,spoon,full moon
+cup,living room,plastic
+photograph,vampire,game
+muffin,stapler,lance
+strawberry,peanut,umbrella
+slipper,drinking fountain,truck
+piano,tag,afraid
+tail,tackle,table
+steel drum,birthday,island
+watch,channel,blizzard
+purple,maserati,leg
+honk,bride,oxcart
+business,fizz ceiling,riddle
+homeless,sled,kirby
+house,feet,letter opener
+amusement park,interception,mysterious
+spring,starfish,jump rope
